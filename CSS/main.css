@@ -7,31 +7,30 @@ body {
 }
 
 .card {
-  font-family: "Open Sans", sans-serif;
-  width: 200px;
+  font-family: "Outfit", sans-serif;
+  width: 300px;
   border-radius: 10px;
   background-color: #fff;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-top: 30px;
+  margin-top: 90px;
   padding: 20px;
-  margin-bottom: 40px;
 }
 .card img {
   width: 100%;
   border-radius: 10px;
 }
+.card h1 {
+  text-align: center;
+  font-size: 25px;
+}
 .card p {
   text-align: center;
-}
-.card .main {
-  font-weight: bold;
-
-  line-height: 1.2em;
-}
-.card .sec {
-  font-size: 0.8em;
+  font-size: 15px;
   color: hsl(220, 15%, 55%);
+}
+.attribution {
+  font-size: 11px;
 }
