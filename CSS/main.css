@@ -9,13 +9,13 @@ body {
 .card {
   font-family: "Outfit", sans-serif;
   width: 300px;
-  border-radius: 10px;
+  border-radius: 20px;
   background-color: #fff;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-top: 90px;
+  margin-top: 120px;
   padding: 20px;
 }
 .card img {
