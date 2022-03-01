@@ -25,6 +25,7 @@ body {
 .card h1 {
   text-align: center;
   font-size: 25px;
+  color: hsl(218, 44%, 22%);
 }
 .card p {
   text-align: center;
